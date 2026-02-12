@@ -1,5 +1,3 @@
-# kafka-cdc-project
-
 # Kafka CDC (Change Data Capture) Project
 
 Real-time database synchronization system using Kafka for PostgreSQL CDC replication
